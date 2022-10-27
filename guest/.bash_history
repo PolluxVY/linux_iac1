@@ -1,0 +1,2 @@
+ls
+su root
