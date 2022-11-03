@@ -53,3 +53,6 @@ chmod 777 /home/publico
 chmod 770 /home/adm
 chmod 770 /home/ven
 chmod 770 /home/sec
+
+echo "Finalizando Script..."
+
